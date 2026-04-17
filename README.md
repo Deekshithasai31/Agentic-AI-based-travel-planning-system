@@ -149,17 +149,7 @@ streamlit run app.py
 * 📍 Map visualization (interactive)
 * 💬 Voice-based travel assistant
 
----
-
-## 👩‍💻 Author
-
-**Deekshitha Sai Katta**
-AI/ML Student | Agentic AI Project
-
----
-
-## ⭐ Acknowledgement
+ Acknowledgement
 
 This project is inspired by modern **Agentic AI systems and ReAct frameworks**, combining reasoning and tool usage for real-world problem solving.
 
----
